@@ -1,0 +1,7 @@
+{
+	"commandBanned": {},
+	"envGlobal": {},
+	"envCommands": {},
+	"envEvents": {},
+	"notes": "Goat-Bot-V2 style. envCommands / envEvents hold per-command settings. commandBanned blocks specific commands for users/threads."
+}

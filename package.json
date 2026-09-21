@@ -1,0 +1,34 @@
+{
+  "name": "instabot",
+  "description": "A modular Instagram Direct chat bot powered by ig-chat-api.",
+  "main": "Goat.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node Goat.js",
+    "test": "node test/run.js",
+    "test:live": "node test/live-send.js"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazyneoaz/Insta-Bot.git"
+  },
+  "keywords": [
+    "instagram",
+    "instagram-bot",
+    "instagram-chat-bot",
+    "instagram-direct",
+    "ig-chat-api",
+    "chatbot"
+  ],
+  "homepage": "https://github.com/lazyneoaz/Insta-Bot#readme",
+  "bugs": {
+    "url": "https://github.com/lazyneoaz/Insta-Bot/issues"
+  },
+  "author": "SK-SIDDIK-KHAN",
+  "version": "1.5.0"
+}
